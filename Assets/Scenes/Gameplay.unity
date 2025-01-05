@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.50526905, g: 0.4980942, b: 0.008994258, a: 1}
+  m_IndirectSpecularColor: {r: 0.50567883, g: 0.4969622, b: 0.0021444121, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -12762,7 +12762,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - {fileID: 8300000, guid: 8290b428b947db145bc4f31ee2c2c59f, type: 3}
-  - {fileID: 8300000, guid: 07e6788b5a2d27c4480909f1af188b66, type: 3}
+  - {fileID: 8300000, guid: f1f87221fdef98046a12e974fe1ee573, type: 3}
   coins: 0
   coinsText: {fileID: 999387928}
   _joystick: {fileID: 1932371262}

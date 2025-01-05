@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8033750b781c4482b8afb057efb27eff, type: 3}
   m_Name: AudioManagementSettings
   m_EditorClassIdentifier: 
-  _database: {fileID: 11400000, guid: 9d51d85b1c53f83428c34b1d8fc1697e, type: 2}
+  CanDebug: 1
+  CanValidate: 1
+  _database: {fileID: 0}

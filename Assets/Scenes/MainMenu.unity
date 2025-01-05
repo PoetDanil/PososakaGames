@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.50558716, g: 0.4970075, b: 0.0020368067, a: 1}
+  m_IndirectSpecularColor: {r: 0.50567883, g: 0.4969622, b: 0.0021444121, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -461,7 +461,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af38352f0c3ba9a498b12904f0b384fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _adManager: {fileID: 989265035}
 --- !u!1 &387083854
 GameObject:
   m_ObjectHideFlags: 0
@@ -1739,12 +1738,12 @@ MonoBehaviour:
   sounds:
   - {fileID: 8300000, guid: ffa036f96ec0d6a4fa62f212b2fca0fa, type: 3}
   _links:
-  - _ruLink: https://yandex.ru/games/app/263828?lang=ru
-    _enLink: https://yandex.com/games/app/263828?lang=en
-  - _ruLink: https://yandex.ru/games/app/217024?lang=ru
-    _enLink: https://yandex.com/games/app/217024?lang=en
-  - _ruLink: https://yandex.ru/games/app/273082?lang=ru
-    _enLink: https://yandex.com/games/app/273082?lang=en
+  - _ruLink: https://t.me/fisodhdiw
+    _enLink: https://t.me/fisodhdiw
+  - _ruLink: https://t.me/psixynd
+    _enLink: https://t.me/psixynd
+  - _ruLink: https://t.me/petoseroth
+    _enLink: https://t.me/petoseroth
   _ourGamesCanvas: {fileID: 706511272}
   _mainCanvas: {fileID: 350929476}
 --- !u!82 &1209721654

@@ -53,7 +53,7 @@ public class PlayerInput : Sounds
         }
     }
 
-    public void Jump()
+    public void Jump() // прыжок
     {
         OnJump?.Invoke();
         PlaySound(sounds[0], 0.85f);
@@ -61,9 +61,10 @@ public class PlayerInput : Sounds
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "Coin")
+        if (other.gameObject.tag == "Coin") // кушание
         {
             coins++;
+            PlaySound(sounds[1]);
             coinsText.text = coins.ToString();
             Destroy(other.gameObject);
         }
